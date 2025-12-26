@@ -10,13 +10,13 @@ A professional, high-performance **Memory Card Game** built with **React** and *
 
 The game begins with all cards faced down, awaiting the first move.
 
-<img src="./Memorycardgame1.png" alt="Initial Game State" width="80" height="40"/>
+<img src="./Memorycardgame1.png" alt="Initial Game State" width="300" height="400"/>
 
 ### Game Completion
 
 A dynamic "Congratulations" board appears once all matches are found, displaying your total moves and final score.
 
-<img src="./Memorycardgame2.png" alt="Initial Game State" width="80" height="40"/>
+<img src="./Memorycardgame2.png" alt="Initial Game State" width="300" height="400"/>
 
 ---
 
