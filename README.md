@@ -10,13 +10,13 @@ A professional, high-performance **Memory Card Game** built with **React** and *
 
 The game begins with all cards faced down, awaiting the first move.
 
-![Initial Game State](./Memorycardgame1.png)
+<img src="./Memorycardgame1.png" alt="Initial Game State" width="80" height="40"/>
 
 ### Game Completion
 
 A dynamic "Congratulations" board appears once all matches are found, displaying your total moves and final score.
 
-![Game Completion State](./Memorycardgame2.jpg)
+<img src="./Memorycardgame2.png" alt="Initial Game State" width="80" height="40"/>
 
 ---
 
@@ -44,7 +44,7 @@ A dynamic "Congratulations" board appears once all matches are found, displaying
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/radu2022/MEMORY-CARD.git](https://github.com/radu2022/MEMORY-CARD.git)
+   git clone [https://github.com/radu2022/MEMORY-CARD.git]
 
 2. **Navigate to the project directory:**
 
