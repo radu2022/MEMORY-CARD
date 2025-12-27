@@ -45,8 +45,9 @@ Make sure you have **Node.js version 16 or higher** installed on your system.
 ### Step-by-Step Installation
 
 1. **Clone the repository:**
+```bash
 ##
-git clone https://github.com/radu2022/MEMORY-CARD.git
+<tab><tab>git clone https://github.com/radu2022/MEMORY-CARD.git
 
 1. Navigate to the project directory:
    ```bash
