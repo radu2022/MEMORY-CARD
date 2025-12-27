@@ -1,5 +1,4 @@
-
-🎮 Memory Match Mania
+#🎮 Memory Match Mania
 
 A professional, high-performance **Memory Card Game** built with **React** and **Vite**. This project features a custom-built game logic engine designed for smooth state management and an interactive user experience.
 
