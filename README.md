@@ -1,5 +1,5 @@
 
-# 🎮 Memory Match Mania
+🎮 Memory Match Mania
 
 A professional, high-performance **Memory Card Game** built with **React** and **Vite**. This project features a custom-built game logic engine designed for smooth state management and an interactive user experience.
 
@@ -48,12 +48,11 @@ Make sure you have **Node.js version 16 or higher** installed on your system.
 ```bash
 git clone https://github.com/radu2022/MEMORY-CARD.git
 ```
-
-1. Navigate to the project directory:
+2. **Navigate to the project directory:**
    ```bash
    cd MEMORY-CARD
    ```
-2. Install dependencies:
+3. **Install dependencies:**
    ```bash
    npm install
    ```
@@ -62,11 +61,11 @@ git clone https://github.com/radu2022/MEMORY-CARD.git
    · vite
    · react-icons
    · eslint and related plugins
-3. Start the development server:
+4. **Start the development server:**
    ```bash
    npm run dev
    ```
-4. Open your browser and visit the displayed URL (typically http://localhost:5173)
+5. **Open your browser and visit the displayed URL** (typically http://localhost:5173)
 
 Building for Production
 
