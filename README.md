@@ -44,10 +44,11 @@ A dynamic "Congratulations" board appears once all matches are found, displaying
 1. **Clone the repository:**
 
    ```bash
-Traceback (most recent call last):
-  File "/home/glot/.python", line 1, in <module>
-    from PIL import Image
-ModuleNotFoundError: No module named 'PIL'
+```
+function test() {
+  console.log("This code will have a copy button to the right of it");
+}
+```
    git clone https://github.com/radu2022/MEMORY-CARD.git
 
 2. **Navigate to the project directory:**
