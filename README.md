@@ -44,13 +44,12 @@ A dynamic "Congratulations" board appears once all matches are found, displaying
 1. **Clone the repository:**
 
    ```bash
-```
 function test() {
   console.log("This code will have a copy button to the right of it");
 }
-```
-   git clone https://github.com/radu2022/MEMORY-CARD.git
 
+   git clone https://github.com/radu2022/MEMORY-CARD.git
+```
 2. **Navigate to the project directory:**
 
     ```bash
