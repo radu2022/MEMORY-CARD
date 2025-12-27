@@ -46,9 +46,9 @@ Make sure you have **Node.js version 16 or higher** installed on your system.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/radu2022/MEMORY-CARD.git
+   
 ```function test() {
-  console.log("This code will have a copy button to the right of it");
+  console.log("git clone https://github.com/radu2022/MEMORY-CARD.git");
 }
 ```
 
